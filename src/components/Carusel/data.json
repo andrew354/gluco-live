@@ -1,0 +1,29 @@
+{
+  "resources": [
+    {
+      "title": "photoOne",
+      "link": "https://twitter.com/kendalmintcode",
+      "imageUrl": "/gallery/photo1.jpeg"
+    },
+    {
+      "title": "photoTwo",
+      "link": "https://ark-labs.co.uk",
+      "imageUrl": "/gallery/photo2.jpeg"
+    },
+    {
+      "title": "PhotoThree",
+      "link": "https://twitter.com/kendalmintcode",
+      "imageUrl": "/gallery/photo3.png"
+    },
+    {
+      "title": "photoFour",
+      "link": "https://robkendal.co.uk",
+      "imageUrl": "/gallery/photo4.jpeg"
+    },
+    {
+      "title": "photoFive",
+      "link": "https://twitter.com/kendalmintcode",
+      "imageUrl": "/gallery/photo5.jpeg"
+    }
+  ]
+}
